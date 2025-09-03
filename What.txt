@@ -1,0 +1,4 @@
+How to use windows subsistem for linux
+1. Open PowerShell
+2. Write WSL.exe to ceck avable
+3. Write WSL --list --online
