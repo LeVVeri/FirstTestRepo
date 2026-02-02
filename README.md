@@ -29,3 +29,6 @@ Just for fun
 slmgr /skms kms.digiboy.ir
 slmgr /ipk NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J
 slmgr /ato
+
+
+https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ru-RU/ProPlus2024Retail.img
